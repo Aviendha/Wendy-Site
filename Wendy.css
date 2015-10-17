@@ -1,0 +1,26 @@
+img {
+	margin: 50px;
+	border: 7px solid white;
+	border-radius: 20px; 
+	}
+header {
+	font-family: Arial;
+	text-align: center;
+	background: url("http://www.yogaholidays.co/wp-content/gallery/cornwall/whitsand-bay-yoga-retreat.jpg");
+	background-size: cover;
+	color: white;
+	}
+li {
+	display: inline;
+	padding: 0px 25px 0px 25px;
+	}
+ul {
+	padding: 20px;
+	background: #ADD8E6
+	}
+#text{
+	font-size: 20px;
+	color: #000080;
+	background-color: AliceBlue;
+	text-align: center;
+}
