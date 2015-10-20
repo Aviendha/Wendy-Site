@@ -1,6 +1,6 @@
 img {
 	margin: 50px 0 30px 0; 
-	border: 7px solid white;
+	border: 4px solid white;
 	border-radius: 20px; 
 	}
 header {
@@ -10,14 +10,19 @@ header {
 	background-size: cover;
 	color: white;
 	}
+h1 {
+	font-family: courgette;
+	font-size: 75px;
+}
 h2 {
 	color: white;
-	font-family: Arial;
+	font-family: roboto-slab;
 	text-align: center;
 }	
 li {
 	display: inline;
 	padding: 0px 25px 0px 25px;
+	font-size: 18px;
 	}
 ul {
 	padding: 20px;
@@ -25,12 +30,38 @@ ul {
 	}
 p {
 	display: block;
-	width: 700px;
+	width: 850px;
 	font-size: 20px;
 	color: #000080;
 	text-align: center;
-	font-family: Arial;
+	font-family: roboto;
+	padding-bottom: 20px;
 }
 body {
 	background-color: AliceBlue;
+}
+
+a {
+	color: #000080;
+	font-family: roboto;
+}
+
+#social-buttons button {
+	color: white;
+	text-align: center;
+}
+
+.btn-etsy {
+	background-color: #d5641c;
+	border-color: #d5641c;
+}
+
+.btn-facebook {
+	background-color: #4868ac;
+	border-color: #314776;
+}
+
+.btn-pinterest {
+	background-color: #b62f26;
+	border-color: #b62f26;
 }
