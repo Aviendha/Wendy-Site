@@ -48,6 +48,10 @@ a {
 
 #social-buttons button {
 	color: white;
+	margin: 0 auto;
+}
+
+#social-buttons {
 	text-align: center;
 }
 
