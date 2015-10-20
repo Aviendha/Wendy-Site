@@ -30,7 +30,7 @@ ul {
 	}
 p {
 	display: block;
-	width: 850px;
+	width: 950px;
 	font-size: 20px;
 	color: #000080;
 	text-align: center;
@@ -64,4 +64,18 @@ a {
 .btn-pinterest {
 	background-color: #b62f26;
 	border-color: #b62f26;
+}
+
+.about {
+	text-align: left;
+}
+
+.before-image{
+	float: right;
+	margin: 10px;
+}
+
+.after-image{
+	float: left;
+	margin: 10px;
 }
